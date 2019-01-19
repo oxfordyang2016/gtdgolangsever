@@ -1,0 +1,13 @@
+/* Form */
+
+@import url(http://fonts.font.im/css?family=Coming+Soon);
+/* END Form */
+/* Demo Purposes */
+body {
+  /*https://www.w3schools.com/css/tryit.asp?filename=trycss_background-image
+   using the link to set background images
+  */
+ /* background-image: url("background.png");*/
+font-family: 'Coming Soon', cursive;
+}
+
